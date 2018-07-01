@@ -45,7 +45,9 @@ If you are using conda, you can install the necessary packages by opening a term
 
 ```sh
 conda update conda --yes
+conda --version  # Should be about 4.5.4
 conda env create --file=environment.yml
+conda activate pandas-scipy
 ```
 
 If you are using Python from python.org or your system, you can install the necessary packages by opening a terminal and entering the following:
@@ -66,6 +68,10 @@ To make sure everything was installed correctly, open a terminal, and change its
 ```sh
 python check_environment.py
 ```
+
+#### 5. Start the Notebook
+
+jupyter notebook
 
 ## Questions? Problems?
 

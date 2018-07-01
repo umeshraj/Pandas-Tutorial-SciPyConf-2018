@@ -6,3 +6,4 @@ __pycache__/
 *.ipynb_checkpoints/
 notebooks/data/beer/*.gz
 *.DS_Store
+pandas-scipy
