@@ -12,7 +12,6 @@
 
 If you don't already have a working python distribution, you may download one of
 
-* Enthought Canopy ([https://store.enthought.com/](https://store.enthought.com/)
 * Miniconda ([https://conda.io/miniconda.html](https://conda.io/miniconda.html))
 * Python.org  ([https://www.python.org/downloads/](https://www.python.org/downloads/))
 
@@ -38,8 +37,6 @@ content you will need, including:
 - `notebooks/` - the Jupyter notebooks we'll use during the tutoral
 
 #### 3. Install Required Packages
-
-With Canopy, the required packages are already installed.
 
 If you are using conda, you can install the necessary packages by opening a terminal and entering the following:
 
