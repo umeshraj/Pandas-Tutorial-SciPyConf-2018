@@ -1,5 +1,7 @@
 # SciPy 2018 Tutorial: Pandas .head() to .tail()
 
+# https://github.com/deniederhut/Pandas-Tutorial-SciPyConf-2018
+
 #### Presented by:
 - [Tom Augspurger](https://tomaugspurger.github.io/), [Anaconda, Inc.](https://anaconda.org/)
 - [Joris Van den Bossche](https://jorisvandenbossche.github.io/), [Université Paris-Saclay Center for Data Science](https://www.datascience-paris-saclay.fr/)
