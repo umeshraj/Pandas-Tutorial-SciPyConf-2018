@@ -1,1 +1,1 @@
-cars[cars.mpg > 30]
+cars[cars.mpg >= 30]
