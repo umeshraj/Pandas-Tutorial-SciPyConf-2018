@@ -32,7 +32,7 @@ This GitHub repository is all that is needed in terms of tutorial content. The s
 If you're familiar with Git, you can also clone this repository with:
 
 ```sh
-$ git clone git@github.com:deniederhut/Pandas-Tutorial-SciPyConf-2018.git
+git clone git@github.com:deniederhut/Pandas-Tutorial-SciPyConf-2018.git
 ```
 
 It will create a new folder named Pandas-Tutorial-SciPyConf-2018/ with all the
@@ -74,7 +74,9 @@ python check_environment.py
 
 #### 5. Start the Notebook
 
+```sh
 jupyter notebook
+```
 
 ## Questions? Problems?
 
